@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="20.045" tests="2" errors="0" skipped="0" failures="2">
+  <properties>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="JOB_NAME" value="Webdriver University"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="NUMBER_OF_PROCESSORS" value="12"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\charm\.jenkins"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="_sysp" value="C:\Users\charm\Anaconda3\condabin\..\"/>
+    <property name="HUDSON_SERVER_COOKIE" value="299033a0fcab225a"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_211\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_211\jre\classes"/>
+    <property name="CONDA_PREFIX" value="C:\Users\charm\Anaconda3"/>
+    <property name="EXECUTOR_NUMBER" value="1"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.RB;.RBW"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="TEMP" value="C:\Users\charm\AppData\Local\Temp"/>
+    <property name="java.runtime.version" value="1.8.0_211-b12"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="user.name" value="charm"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="(base) $P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="Webdriver University"/>
+    <property name="CONDA_SHLVL" value="1"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/Webdriver%20University/2/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="OneDrive" value="C:\Users\charm\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_211\jre\bin"/>
+    <property name="LOCALAPPDATA" value="C:\Users\charm\AppData\Local"/>
+    <property name="java.version" value="1.8.0_211"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="user.timezone" value="Europe/London"/>
+    <property name="USERNAME" value="charm"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="OneDriveConsumer" value="C:\Users\charm\OneDrive"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\endorsed"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="PyCharm Community Edition" value="C:\Program Files\JetBrains\PyCharm Community Edition 2019.2.3\bin;"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="maven.conf" value="C:\Program Files\Maven\apache-maven-3.6.1\conf"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="GB"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="CONDA_DEFAULT_ENV" value="base"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_211\jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="os.version" value="10.0"/>
+    <property name="=ExitCode" value="00000082"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/Webdriver%20University/2/display/redirect"/>
+    <property name="TMP" value="C:\Users\charm\AppData\Local\Temp"/>
+    <property name="CONDA_EXE" value="C:\Users\charm\Anaconda3\Scripts\conda.exe"/>
+    <property name="path.separator" value=";"/>
+    <property name="java.vm.version" value="25.211-b12"/>
+    <property name="CONDA_PROMPT_MODIFIER" value="(base) "/>
+    <property name="user.variant" value=""/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/Webdriver%20University/display/redirect"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="LAPTOP-HPHDFIQM"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk1.8.0_211"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="HOMEPATH" value="\Users\charm"/>
+    <property name="user.script" value=""/>
+    <property name="COMPUTERNAME" value="LAPTOP-HPHDFIQM"/>
+    <property name="VBOX_MSI_INSTALL_PATH" value="C:\Program Files\Oracle\VirtualBox\"/>
+    <property name="user.home" value="C:\Users\charm"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="RUBYOPT" value="-Eutf-8"/>
+    <property name="BUILD_TAG" value="jenkins-Webdriver University-2"/>
+    <property name="JENKINS_SERVER_COOKIE" value="299033a0fcab225a"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\charm"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Maven\apache-maven-3.6.1/bin;C:\Program Files\Java\jdk1.8.0_211/bin;C:\Program Files\Java\jdk1.8.0_211/bin;C:\Users\charm\Anaconda3;C:\Users\charm\Anaconda3\Library\mingw-w64\bin;C:\Users\charm\Anaconda3\Library\usr\bin;C:\Users\charm\Anaconda3\Library\bin;C:\Users\charm\Anaconda3\Scripts;C:\Users\charm\Anaconda3\bin;C:\Users\charm\Anaconda3\condabin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\C:\Program Files\Java\jdk-13.0.1\bin;&quot;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\C:\Program Files\Java\C:\Program Files\Java\jdk-13.0.1\bin&quot;;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Maven\apache-maven-3.6.1\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Users\charm\OneDrive\Desktop\Drivers;C:\Ruby24-x64\bin;C:\Ruby27-x64\bin;C:\Ruby26-x64\bin;C:\Users\charm\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\charm\AppData\Local\Programs\Python\Python38-32\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Users\charm\AppData\Local\hyper\app-3.0.2\resources\bin;."/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\charm\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Program Files\Maven\apache-maven-3.6.1"/>
+    <property name="java.class.path" value="C:\Users\charm\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;C:\Program Files\Maven\apache-maven-3.6.1\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\Maven\apache-maven-3.6.1/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program Files\Maven\apache-maven-3.6.1 C:\Users\charm\.jenkins\war\WEB-INF\lib\remoting-3.36.1.jar C:\Users\charm\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Users\charm\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 60519"/>
+    <property name="Path" value="C:\Program Files\Java\jdk1.8.0_211/bin;C:\Users\charm\Anaconda3;C:\Users\charm\Anaconda3\Library\mingw-w64\bin;C:\Users\charm\Anaconda3\Library\usr\bin;C:\Users\charm\Anaconda3\Library\bin;C:\Users\charm\Anaconda3\Scripts;C:\Users\charm\Anaconda3\bin;C:\Users\charm\Anaconda3\condabin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath\C:\Program Files\Java\jdk-13.0.1\bin;&quot;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\C:\Program Files\Java\C:\Program Files\Java\jdk-13.0.1\bin&quot;;C:\Program Files (x86)\Razer Chroma SDK\bin;C:\Program Files\Razer Chroma SDK\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Maven\apache-maven-3.6.1\bin;C:\Program Files\nodejs\;C:\Program Files\Git\cmd;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Users\charm\OneDrive\Desktop\Drivers;C:\Ruby24-x64\bin;C:\Ruby27-x64\bin;C:\Ruby26-x64\bin;C:\Users\charm\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\charm\AppData\Local\Programs\Python\Python38-32\;C:\Program Files\Java\jdk1.8.0_211\bin;C:\Users\charm\AppData\Local\hyper\app-3.0.2\resources\bin"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk1.8.0_211/bin"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 158 Stepping 10, GenuineIntel"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="M2_HOME" value="C:\Program Files\Maven\apache-maven-3.6.1"/>
+    <property name="java.io.tmpdir" value="C:\Users\charm\AppData\Local\Temp\"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="HUDSON_HOME" value="C:\Users\charm\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Program Files\Maven\apache-maven-3.6.1/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/Webdriver%20University/2/"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_211\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="user.dir" value="C:\Users\charm\OneDrive\Desktop\WebdriverUniversity\CucumberFramework"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/Webdriver%20University/"/>
+    <property name="LOGONSERVER" value="\\LAPTOP-HPHDFIQM"/>
+    <property name="USERDOMAIN" value="LAPTOP-HPHDFIQM"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="MAVEN_HOME" value="C:\Program Files\Maven\apache-maven-3.6.1"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="PROCESSOR_REVISION" value="9e0a"/>
+    <property name="GIT_BRANCH" value="origin/master"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="GIT_COMMIT" value="97d9cbf107ee919f41770048e55ed15d2c3e6b99"/>
+    <property name="=C:" value="C:\Users\charm\OneDrive\Desktop"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\charm\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="WORKSPACE" value="C:\Users\charm\.jenkins\workspace\Webdriver University"/>
+    <property name="maven3.interceptor.common" value="C:\Users\charm\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="GIT_URL" value="https://github.com/DevelopAndTestAndDeploy/Cucumber-Project.git"/>
+  </properties>
+  <testcase name="feature" classname="runners.MainRunner" time="9.325">
+    <failure message="java.lang.AssertionError" type="cucumber.runtime.CucumberException">cucumber.runtime.CucumberException: java.lang.AssertionError
+Caused by: java.lang.AssertionError
+</failure>
+    <system-out><![CDATA[...
+... TestNG 6.9.10 by Cédric Beust (cedric@beust.com)
+...
+
+Feature: Submit data to webdriveruniversity.com using contact us form
+WebElement is visible using locator: <[[ChromeDriver: chrome on XP (073f08ae76c83051471d00c50d744a08)] -> xpath: //input[@name='first_name']]]]><![CDATA[>
+Successfully Sent the following keys: 'Tom' to element: <[[ChromeDriver: chrome on XP (073f08ae76c83051471d00c50d744a08)] -> xpath: //input[@name='first_name']]]]><![CDATA[>
+WebElement is visible using locator: <[[ChromeDriver: chrome on XP (073f08ae76c83051471d00c50d744a08)] -> xpath: //input[@name='last_name']]]]><![CDATA[>
+Successfully Sent the following keys: 'jackson' to element: <[[ChromeDriver: chrome on XP (073f08ae76c83051471d00c50d744a08)] -> xpath: //input[@name='last_name']]]]><![CDATA[>
+WebElement is visible using locator: <[[ChromeDriver: chrome on XP (073f08ae76c83051471d00c50d744a08)] -> xpath: //input[@name='email']]]]><![CDATA[>
+Successfully Sent the following keys: 'webdriveruniversity@outlook.com' to element: <[[ChromeDriver: chrome on XP (073f08ae76c83051471d00c50d744a08)] -> xpath: //input[@name='email']]]]><![CDATA[>
+WebElement is visible using locator: <[[ChromeDriver: chrome on XP (073f08ae76c83051471d00c50d744a08)] -> xpath: //textarea[@name='message']]]]><![CDATA[>
+Successfully Sent the following keys: 'example comment two' to element: <[[ChromeDriver: chrome on XP (073f08ae76c83051471d00c50d744a08)] -> xpath: //textarea[@name='message']]]]><![CDATA[>
+
+  Scenario: Submit valid data via contact us form                                 # contactus.feature:3
+    Given I access webdriveruniversity contact us form                            # ContactUsSteps.i_access_webdriveruniversity_contact_us_form()
+    When I enter a valid firstname                                                # ContactUsSteps.i_enter_a_valid_firstname()
+    When I enter a valid last name                                                # ContactUsSteps.i_enter_a_valid_last_name(DataTable)
+    And i enter a valid email address                                             # ContactUsSteps.i_enter_a_valid_email_address()
+    And i enter comments                                                          # ContactUsSteps.i_enter_comments(DataTable)
+    When i click on the submit button                                             # ContactUsSteps.i_click_on_the_submit_button()
+      java.lang.AssertionError
+      	at org.junit.Assert.fail(Assert.java:86)
+      	at org.junit.Assert.fail(Assert.java:95)
+      	at pageObjects.ContactUs_Page.clickOnSubmiButton(ContactUs_Page.java:50)
+      	at stepDefinitions.ContactUsSteps.i_click_on_the_submit_button(ContactUsSteps.java:46)
+      	at ?.When i click on the submit button(contactus.feature:11)
+
+    Then the information should successfully be submitted via the contact us form # ContactUsSteps.the_information_should_successfully_be_submitted_via_the_contact_us_form()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb) on port 16792
+Only local connections are allowed.
+Mar 22, 2020 9:45:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+  <testcase name="feature" classname="runners.MainRunner" time="9.332">
+    <failure message="java.lang.AssertionError" type="cucumber.runtime.CucumberException">cucumber.runtime.CucumberException: java.lang.AssertionError
+Caused by: java.lang.AssertionError
+</failure>
+    <system-out><![CDATA[Feature: Products page
+
+  Scenario Outline: validate promo code alert is visible when clicking on the special offers link # products.feature:3
+    Given user navigates to "<url>" website
+    When user clicks on "<button>"
+    Then user should be presented with a promo alert
+
+    Examples: 
+
+  Scenario Outline: validate promo code alert is visible when clicking on the special offers link        # products.feature:10
+    Given user navigates to "http://www.webdriveruniversity.com/Page-Object-Model/products.html" website # ProductSteps.user_navigates_to_website(String)
+    When user clicks on "#container-special-offers2"                                                     # ProductSteps.user_clicks_on(String)
+      java.lang.AssertionError
+      	at org.junit.Assert.fail(Assert.java:86)
+      	at org.junit.Assert.fail(Assert.java:95)
+      	at stepDefinitions.ProductSteps.user_clicks_on(ProductSteps.java:20)
+      	at ?.When user clicks on "#container-special-offers2"(products.feature:5)
+
+    Then user should be presented with a promo alert                                                     # ProductSteps.user_should_be_presented_with_a_promo_alert()
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 2.38.552522 (437e6fbedfa8762dec75e2c5b3ddb86763dc9dcb) on port 30124
+Only local connections are allowed.
+Mar 22, 2020 9:45:37 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: OSS
+]]></system-err>
+  </testcase>
+</testsuite>
