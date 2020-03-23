@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 5735758400,
+  "duration": 5702652200,
   "status": "passed"
 });
 formatter.scenario({
@@ -76,42 +76,42 @@ formatter.match({
   "location": "ContactUsSteps.i_access_webdriveruniversity_contact_us_form()"
 });
 formatter.result({
-  "duration": 442294100,
+  "duration": 398664300,
   "status": "passed"
 });
 formatter.match({
   "location": "ContactUsSteps.i_enter_a_valid_firstname()"
 });
 formatter.result({
-  "duration": 120813700,
+  "duration": 164082800,
   "status": "passed"
 });
 formatter.match({
   "location": "ContactUsSteps.i_enter_a_valid_last_name(DataTable)"
 });
 formatter.result({
-  "duration": 116075300,
+  "duration": 126275200,
   "status": "passed"
 });
 formatter.match({
   "location": "ContactUsSteps.i_enter_a_valid_email_address()"
 });
 formatter.result({
-  "duration": 162639000,
+  "duration": 164060000,
   "status": "passed"
 });
 formatter.match({
   "location": "ContactUsSteps.i_enter_comments(DataTable)"
 });
 formatter.result({
-  "duration": 131100600,
+  "duration": 128556800,
   "status": "passed"
 });
 formatter.match({
   "location": "ContactUsSteps.i_click_on_the_submit_button()"
 });
 formatter.result({
-  "duration": 1643400,
+  "duration": 1664200,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat pageObjects.ContactUs_Page.clickOnSubmiButton(ContactUs_Page.java:50)\r\n\tat stepDefinitions.ContactUsSteps.i_click_on_the_submit_button(ContactUsSteps.java:46)\r\n\tat ✽.When i click on the submit button(contactus.feature:11)\r\n",
   "status": "failed"
 });
@@ -122,7 +122,7 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 1039836700,
+  "duration": 1061138800,
   "status": "passed"
 });
 formatter.uri("products.feature");
@@ -182,7 +182,7 @@ formatter.examples({
   "keyword": "Examples"
 });
 formatter.before({
-  "duration": 4995122800,
+  "duration": 5004826900,
   "status": "passed"
 });
 formatter.scenario({
@@ -224,7 +224,7 @@ formatter.match({
   "location": "ProductSteps.user_navigates_to_website(String)"
 });
 formatter.result({
-  "duration": 949830700,
+  "duration": 898244800,
   "status": "passed"
 });
 formatter.match({
@@ -237,7 +237,7 @@ formatter.match({
   "location": "ProductSteps.user_clicks_on(String)"
 });
 formatter.result({
-  "duration": 211800,
+  "duration": 205800,
   "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat stepDefinitions.ProductSteps.user_clicks_on(ProductSteps.java:20)\r\n\tat ✽.When user clicks on \"#container-special-offers2\"(products.feature:5)\r\n",
   "status": "failed"
 });
@@ -248,7 +248,7 @@ formatter.result({
   "status": "skipped"
 });
 formatter.after({
-  "duration": 3169947100,
+  "duration": 3080899900,
   "status": "passed"
 });
 });
