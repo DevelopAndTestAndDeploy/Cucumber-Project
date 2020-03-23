@@ -6,7 +6,7 @@
         "before": [
           {
             "result": {
-              "duration": 6009253000,
+              "duration": 5735758400,
               "status": "passed"
             },
             "match": {
@@ -21,7 +21,7 @@
         "after": [
           {
             "result": {
-              "duration": 1059914400,
+              "duration": 1039836700,
               "status": "passed"
             },
             "match": {
@@ -34,7 +34,7 @@
         "steps": [
           {
             "result": {
-              "duration": 426198300,
+              "duration": 442294100,
               "status": "passed"
             },
             "line": 4,
@@ -46,7 +46,7 @@
           },
           {
             "result": {
-              "duration": 129264800,
+              "duration": 120813700,
               "status": "passed"
             },
             "line": 5,
@@ -58,7 +58,7 @@
           },
           {
             "result": {
-              "duration": 115407500,
+              "duration": 116075300,
               "status": "passed"
             },
             "line": 6,
@@ -80,7 +80,7 @@
           },
           {
             "result": {
-              "duration": 163347000,
+              "duration": 162639000,
               "status": "passed"
             },
             "line": 8,
@@ -92,7 +92,7 @@
           },
           {
             "result": {
-              "duration": 128844500,
+              "duration": 131100600,
               "status": "passed"
             },
             "line": 9,
@@ -113,7 +113,7 @@
           },
           {
             "result": {
-              "duration": 1736000,
+              "duration": 1643400,
               "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat pageObjects.ContactUs_Page.clickOnSubmiButton(ContactUs_Page.java:50)\r\n\tat stepDefinitions.ContactUsSteps.i_click_on_the_submit_button(ContactUsSteps.java:46)\r\n\tat ✽.When i click on the submit button(contactus.feature:11)\r\n",
               "status": "failed"
             },
@@ -151,7 +151,7 @@
         "before": [
           {
             "result": {
-              "duration": 5058348900,
+              "duration": 4995122800,
               "status": "passed"
             },
             "match": {
@@ -166,7 +166,7 @@
         "after": [
           {
             "result": {
-              "duration": 1715725700,
+              "duration": 3169947100,
               "status": "passed"
             },
             "match": {
@@ -179,7 +179,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2558603500,
+              "duration": 949830700,
               "status": "passed"
             },
             "line": 4,
@@ -200,7 +200,7 @@
           },
           {
             "result": {
-              "duration": 221500,
+              "duration": 211800,
               "error_message": "java.lang.AssertionError\r\n\tat org.junit.Assert.fail(Assert.java:86)\r\n\tat org.junit.Assert.fail(Assert.java:95)\r\n\tat stepDefinitions.ProductSteps.user_clicks_on(ProductSteps.java:20)\r\n\tat ✽.When user clicks on \"#container-special-offers2\"(products.feature:5)\r\n",
               "status": "failed"
             },
