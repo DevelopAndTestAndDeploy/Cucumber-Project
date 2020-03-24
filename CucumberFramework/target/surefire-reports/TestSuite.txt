@@ -1,12 +1,12 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 18.055 sec <<< FAILURE! - in TestSuite
-feature(runners.MainRunner)  Time elapsed: 7.996 sec  <<< FAILURE!
+Tests run: 2, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 19.194 sec <<< FAILURE! - in TestSuite
+feature(runners.MainRunner)  Time elapsed: 8.388 sec  <<< FAILURE!
 cucumber.runtime.CucumberException: java.lang.AssertionError
 Caused by: java.lang.AssertionError
 
-feature(runners.MainRunner)  Time elapsed: 8.992 sec  <<< FAILURE!
+feature(runners.MainRunner)  Time elapsed: 9.428 sec  <<< FAILURE!
 cucumber.runtime.CucumberException: java.lang.AssertionError
 Caused by: java.lang.AssertionError
 
